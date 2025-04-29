@@ -1,0 +1,20 @@
+{
+  "common": {
+    "home": "Inicio",
+    "login": "Iniciar sesión",
+    "language": "Idioma"
+  },
+  "home": {
+    "welcome": "Bienvenido a Mentana",
+    "subtitle": "Tu plataforma para el desarrollo profesional y crecimiento"
+  },
+  "login": {
+    "title": "Inicia sesión en tu cuenta",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "submit": "Iniciar sesión"
+  },
+  "footer": {
+    "copyright": "© {year} Mentana. Todos los derechos reservados."
+  }
+} 
