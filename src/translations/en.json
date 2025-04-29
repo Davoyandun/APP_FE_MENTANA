@@ -1,0 +1,20 @@
+{
+  "common": {
+    "home": "Home",
+    "login": "Login",
+    "language": "Language"
+  },
+  "home": {
+    "welcome": "Welcome to Mentana",
+    "subtitle": "Your platform for professional development and growth"
+  },
+  "login": {
+    "title": "Sign in to your account",
+    "email": "Email address",
+    "password": "Password",
+    "submit": "Sign in"
+  },
+  "footer": {
+    "copyright": "© {year} Mentana. All rights reserved."
+  }
+} 
