@@ -1,12 +1,11 @@
 'use client';
 
 import { useState } from 'react';
-import { useRouter } from 'next/navigation';
+import SignInGoogle from './SignInGoogle';
 
 export default function LoginPage() {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
-  const router = useRouter();
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -65,6 +64,7 @@ export default function LoginPage() {
             >
               Sign in
             </button>
+            <SignInGoogle />
           </div>
         </form>
       </div>
